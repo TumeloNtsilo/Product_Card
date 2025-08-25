@@ -8,8 +8,8 @@ tailwind.config = {
             },
 
             fontFamily : {
-                sans : ['Bebas Neue', 'sans-serif'],
-                slab : ['Robot Slab', 'serif']
+                jose : ['Josefin Sans', 'sans-serif'],
+                tittle : ['Playfair Display SC', 'serif']
             }
             
         }
